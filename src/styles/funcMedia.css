@@ -1,0 +1,22 @@
+
+@media (max-width: 1480px) {
+    .folder {
+        width: 200px;
+    }
+    .folder__back {
+        width: 200px;
+    }
+
+}
+
+@media (max-width: 1230px) {
+    /* .folder {
+        width: 150px;
+    }
+    .folder__back {
+        width: 150px;
+    } */
+    .folder_element {
+        width: 250px;
+    }
+}
